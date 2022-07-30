@@ -168,6 +168,8 @@ section .title::after{
     background: url("images/Untitled\ design.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
+    background-size: cover;
+    
     min-height: 500px;
     font-family: 'Ubuntu', sans-serif;
 }
